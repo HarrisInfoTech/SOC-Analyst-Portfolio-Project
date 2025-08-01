@@ -20,7 +20,7 @@ This week focuses on designing and deploying a fully cloud-hosted SOC lab using 
 📌 Lab diagram created using [draw.io](https://draw.io)
 
 📸 Screenshot:  
-![Lab Diagram](./screenshots/Lab-Diagram (1).png)
+![Lab Diagram](./screenshots/lab-diagram.png)
 
 ---
 
