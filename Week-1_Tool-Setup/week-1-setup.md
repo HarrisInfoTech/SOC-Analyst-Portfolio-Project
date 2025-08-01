@@ -43,7 +43,7 @@ sudo systemctl enable kibana --now
 
 📸 Screenshots:
 - ![Elasticsearch Status](./screenshots/elasticsearch-status.png)
-- ![Kibana Login](./screenshots/kibana-login.png)
+- ![Kibana Login](./screenshots/Kibana-login.png)
 
 ✅ Both services are successfully installed and accessible.
 
